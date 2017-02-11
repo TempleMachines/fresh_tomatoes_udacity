@@ -20,7 +20,7 @@ All modules listed are used, and are part of the Python Standard Library:
 ### Usage
 
 Clone or download the repository, make sure you have Python 2x installed, open a command
-prompt window from the directory, and type 'python media.py'. Your default browser will open
+prompt window from the directory, and type 'python movies.py'. Your default browser will open
 a new tab displaying my favorite movies. Click on the box-art to see the movie trailer.
 
 
