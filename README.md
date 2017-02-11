@@ -1,6 +1,6 @@
 # Fresh Tomatoes - Movie Website
 
-A website built in Python, HTML, and CSS. That allows you to view some of my favorite movies.
+A website built in Python, HTML, CSS, jQuery, and Bootstrap. That allows you to view some of my favorite movies.
 
   - Open's a webpage in your default browser.
   - Displays some of my favorite movies.
